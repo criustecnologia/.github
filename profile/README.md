@@ -3,4 +3,4 @@
 <h1>Crius Tecnologia</h1>
 <p>Soluções Sob Medida para Potencializar o Desempenho do Seu Negócio. Projetamos e Implementamos Softwares e Aplicativos que Contribuem Para o Sucesso da Sua Empresa.</p>
 
-Conheça e [saiba mais](https://www.crius.com.br/).
+Acesse e [saiba mais](https://www.crius.com.br/).
